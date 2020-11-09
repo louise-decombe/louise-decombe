@@ -1,4 +1,4 @@
-### Hello wordl 👋
+### Hello world 👋
 
 :arrow_right: I'm new in the web developers galaxy ! 
 
