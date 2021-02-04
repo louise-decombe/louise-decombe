@@ -4,9 +4,8 @@
 
 - I'm a student at https://laplateforme.io/coding-school/  in Marseille, France.
 
-- 🔭 I’m currently working on PHP JAVASCRIPT HTML CSS 
+- 🔭 I’m  working mainly with PHP (Symfony) JAVASCRIPT (Jquery Ajax) HTML CSS... a bit of Python.
 
-- I enjoy free software
 
 - ⚡ Visit my portfolio : https://louise-decombe.students-laplateforme.io/
 
