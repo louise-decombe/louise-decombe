@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 👋, I'm Louise</h1>
 <h3 align="center">Junior back-end web developper</h3>
 
-- 👨‍💻 See me at [louise.tech](louise.tech)
+- 👨‍💻 Check at [louise.tech](louise.tech)
 
 - 📫 let's work together **contact@louise.tech**
 
