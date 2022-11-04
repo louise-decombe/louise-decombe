@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, I'm Louise</h1>
-<h3 align="center">Another web dev</h3>
+<h3 align="center"> Web developper</h3>
 
 - 👨‍💻 Check at [louise.tech](louise.tech)
 
